@@ -1,2 +1,2 @@
 # minheap
-Javascript implementation of a minheap
+Javascript implementation of a binary heap
